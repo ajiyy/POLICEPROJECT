@@ -1,0 +1,2 @@
+MONGO_URL=mongodb://sharmaankit80058_db_user:b0w5STaqA4OgGHV2@ac-1rsgom1-shard-00-00.87onhjd.mongodb.net:27017,ac-1rsgom1-shard-00-01.87onhjd.mongodb.net:27017,ac-1rsgom1-shard-00-02.87onhjd.mongodb.net:27017/policeDB?ssl=true&authSource=admin&retryWrites=true&w=majority
+JWT_SECRET=secretkey

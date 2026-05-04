@@ -1,2 +1,1 @@
-# POLICEPROJECT
-This project is a web-based Police Station Management System designed for the digital handling of public complaints, FIR tracking, and basic police station services. 
+This is my polic project showcase (prototype) ,backend is in node.js and frontend is in react
